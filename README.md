@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samkitjain1812&label=Profile%20views&color=0e75b6&style=flat" alt="samkitjain1812" /> </p>
 
-- 🔭 I’m currently working on [AR based Museum Tour](https://github.com/Sonu-Jha24/AR-Based-Museum-Tour)
+- 🔭 I’m currently working on [AR based Museum Tour](github.com/Sonu-Jha24/AR-Based-Museum-Tour)
 
 - 🌱 I’m currently learning **AI Automation and building AI Agents**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SamkitJain1812](https://github.com/SamkitJain1812)
+- 👨‍💻 All of my projects are available at [github.com/SamkitJain1812](github.com/SamkitJain1812)
 
 - 📫 How to reach me **samkitjain1812@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing](https://drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing)
+- 📄 Know about my experiences [drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing](drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
