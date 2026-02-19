@@ -7,11 +7,9 @@
 
 - 🌱 I’m currently learning **AI Automation and building AI Agents**
 
-- 👨‍💻 All of my projects are available at [github.com/SamkitJain1812](github.com/SamkitJain1812)
-
 - 📫 How to reach me **samkitjain1812@gmail.com**
 
-- 📄 Know about my experiences [drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing](drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing)
+- 📄 Know about my experiences [Resume](drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
