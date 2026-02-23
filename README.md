@@ -22,9 +22,6 @@
 
 <p align="center">
   <a href="https://github.com/SamkitJain1812">
-    <img height="180em" src="https://github-readme-stats-iota-wine-89.vercel.app/api/top-langs/?username=SamkitJain1812&layout=compact&hide_border=true&langs_count=6&theme=dracula" alt="Samkit's Top Languages" />
-  </a>
-  <a href="https://github.com/SamkitJain1812">
     <img src="https://github-readme-streak-stats-iota-gilt.vercel.app?user=SamkitJain1812&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
