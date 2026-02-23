@@ -23,6 +23,18 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=samkitjain1812&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samkitjain1812&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<p align="center">
+  <a href="https://github.com/SamkitJain1812">
+    <img height="180em" src="https://github-readme-stats-iota-wine-89.vercel.app/api?username=SamkitJain1812&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" alt="Samkit's GitHub Stats" />
+  </a>
+  <a href="https://github.com/SamkitJain1812">
+    <img height="180em" src="https://github-readme-stats-iota-wine-89.vercel.app/api/top-langs/?username=SamkitJain1812&layout=compact&hide_border=true&langs_count=6&theme=dracula" alt="Samkit's Top Languages" />
+  </a>
+  <a href="https://github.com/SamkitJain1812">
+    <img src="https://github-readme-streak-stats-iota-gilt.vercel.app?user=SamkitJain1812&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=samkitjain1812&limit=5&theme=dark&combine_all_yearly_contributions=true)
