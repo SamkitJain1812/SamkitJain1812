@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samkit Jain</h1>
 <h3 align="left">About me: </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samkitjain1812&label=Profile%20views&color=0e75b6&style=flat" alt="samkitjain1812" /> </p>
 
 - 🔭 I’m currently working on [AR based Museum Tour](github.com/Sonu-Jha24/AR-Based-Museum-Tour)
 
