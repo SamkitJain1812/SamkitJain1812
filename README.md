@@ -22,7 +22,7 @@
 
 <p align="center">
   <a href="https://github.com/SamkitJain1812">
-    <img src="https://github-readme-streak-stats-iota-gilt.vercel.app?user=SamkitJain1812&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats-iota-gilt.vercel.app?user=SamkitJain1812&theme=highcontrast&hide_border=true&ring=ff8c00&fire=ff8c00&currStreakLabel=ff8c00" alt="GitHub Streak" />
   </a>
 </p>
 
