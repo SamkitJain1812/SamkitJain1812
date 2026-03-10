@@ -2,7 +2,7 @@
 <h3 align="left">About me: </h3>
 
 
-- 🔭 I’m currently working on [AR based Museum Tour]([github.com/Sonu-Jha24/AR-Based-Museum-Tour](https://github.com/SamkitJain1812/AR-Based-Museum-Tour))
+- 🔭 I’m currently working on [AR based Museum Tour]([r](https://github.com/SamkitJain1812/AR-Based-Museum-Tour))
 
 - 🌱 I’m currently learning **AI Automation and building AI Agents**
 
