@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **samkitjain1812@gmail.com**
 
-- 📄 Know about my experiences [Resume](drive.google.com/file/d/13xzMAVoX8kVc2E1QBNh1p7mz-_rZKZLI/view?usp=sharing)
-
 ## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samkitjain1812) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samkitjain1812@gmail.com) 
 <a href="https://www.hackerrank.com/samkitjain1812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="samkitjain1812" height="30" width="40" /></a>
